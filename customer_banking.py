@@ -1,6 +1,7 @@
 # Import the create_cd_account and create_savings_account functions
 # ADD YOUR CODE HERE
 
+
 # Define the main function
 def main():
     """This function prompts the user to enter the savings and cd account balance, interest rate,
