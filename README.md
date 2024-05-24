@@ -13,7 +13,3 @@ This system calculates the interest earned on savings and CD accounts based on t
 ## Summary
 
 This system calculates the interest earned on both savings and CD accounts. It considers the initial balance, annual interest rate, and the number of months and provides the interest calculations and updated balance for both accounts.
-
-## Source Code:
-* I worked on my code with a tutor and also used bing.com/Copilot and Chat GPT.
-
