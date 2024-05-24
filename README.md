@@ -1,5 +1,4 @@
 Customer Banking System
-# Savings and CD Account Interest Calculator
 
 This system calculates the interest earned on savings and CD accounts based on the user's input for the initial balance, interest rate, and the number of months. It uses the "create_cd_account" and "create_savings_account" to perform these calculations.
 
