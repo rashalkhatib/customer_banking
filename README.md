@@ -1,6 +1,6 @@
 Customer Banking System
 
-This system calculates the interest earned on savings and CD accounts based on the user's input for the initial balance, interest rate, and the number of months. It uses the "create_cd_account" and "create_savings_account" to perform these calculations.
+This system calculates the interest earned on savings and CD accounts based on the user's input of the initial balance, interest rate, and the number of months.
 
 ### Function
 - The system imports the "create_cd_account" and "create_savings_account" functions from "cd_account.py" and "savings_account.py".
